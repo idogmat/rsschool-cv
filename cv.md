@@ -1,7 +1,7 @@
 # EVGENY RODIN
 
 ## Contact information
-* [**e-mail**](idogmat@gmail.com)
+* [**E-mail**](mailto:idogmat@gmail.com)
 * [**Telegram**](https://t.me/io_jack)
 
 <hr>
@@ -29,7 +29,7 @@ work and moving to another country.
 * HTML / CSS
 
 ## CODE EXAMPLE
-* [examples of my code](https://github.com/idogmat)
+* [**Examples of my code**](https://github.com/idogmat)
 
 
 ## EDUCATION
