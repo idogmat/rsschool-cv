@@ -37,6 +37,7 @@ function mygcd(a,b){
 ```
 
 ## EDUCATION
+
 [Advanced web development course](https://loftschool.com/diploma/KK1561471141/en/pdf)  07.10.2019 - 13.11.2019 
 
 [Web development for Beginners](https://loftschool.com/diploma/VE1561471141/en/pdf)  12.02.2019 - 18.09.2019
