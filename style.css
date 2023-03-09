@@ -1,0 +1,84 @@
+:root {
+    --blue: #79b0d4;
+  }
+h1,h2,h3,h4,h5{
+    text-transform: uppercase;
+}
+h4{
+    text-decoration: underline;
+}
+*{
+    color: #000;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    cursor: default;
+}
+p{
+    margin: 3px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background: whitesmoke;
+}
+.container{
+    max-width: 800px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 5px 1px var(--blue);
+    background: #f3d8c2;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+/* info */
+
+.person-photo{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border:5px solid  var(--blue);
+    
+}
+.contacts{
+    display: flex;
+    flex-direction: column;
+}
+.contacts a {
+    text-decoration: dashed;
+    padding: 3px 0px;
+}
+.contacts a:hover {
+    color:  var(--blue);
+}
+
+.skills ul{
+    padding: 0;
+}
+.person-info{
+    max-width: 40%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+/* achivement */
+
+.person-achievement{
+    border-left: 3px solid  var(--blue);
+    max-width: 60%;
+    padding: 20px;
+}
+.aboutme{
+    display: flex;
+    flex-direction: column;
+
+}
+.experience{
+    line-height: 20px;
+}
+.education{
+
+}
